@@ -1,0 +1,15 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    height: 100vh;
+    background-color: #586058;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    align-content: center;
+}
+
